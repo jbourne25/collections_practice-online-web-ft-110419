@@ -29,5 +29,8 @@ def kesha_maker(array)
     item[2] = "$"
   end
 end
+
+find_a(array)
+
     
   
