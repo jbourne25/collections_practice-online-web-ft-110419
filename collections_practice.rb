@@ -15,5 +15,7 @@ def sort_array_char_count(array)
 end 
 
 def swap_elements(array)
-  array.sway do |
+  array.swap do |a, b, c|
+    a 
+    
   
