@@ -16,6 +16,6 @@ end
 
 def swap_elements(array)
   array.swap do |a, b, c|
-    a 
+    array(0)
     
   
